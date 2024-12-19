@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Economica:ital,wght@0,400;0,700;1,400;1,700&family=Francois+One&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Syncopate:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    height: 100vh;
+    background: radial-gradient(circle, #e6a800, #ffac30, #ffac30, #ff8864);
+}
+
+header {
+    font-family: Francois One;
+    text-align: center;
+    font-size: 20px;
+}
+
+section {
+    font-family: Kanit;
+    background: white;
+    padding: 18px;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.637);
+}
+
+#nasc {
+    padding: 3px;
+}
+
+#sex {
+    padding-block: 10px;
+}
+
+
+button {
+    background-color: #00d2f7;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.836);
+    font-family: kanit;
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin-right: 1%;
+    margin-left: auto;
+    
+}
+
+#res {
+    padding-top: 20px;
+    font-size: 15px;
+    
+}
+
+footer {
+    text-align: center;
+    padding-top:50px;
+    font-size: 12px;
+    font-family: economica;
+
+}
+
